@@ -1,4 +1,4 @@
-# Road-nutrition
+# NutriRoadX
 # Healthy Travel Food
 
 Healthy Travel Food is an offline-first Android application designed to help users make healthier food choices while traveling, commuting, or working away from home.
