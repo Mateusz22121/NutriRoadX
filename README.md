@@ -67,3 +67,11 @@ All rights reserved.
 
 This repository is provided for application distribution only. The APK may not be copied, modified, redistributed, reverse engineered, or used for commercial purposes without the explicit permission of the author.
 
+# NutriRoadX
+
+![Downloads](https://img.shields.io/github/downloads/Mateusz22121/Road-nutrition/total?style=for-the-badge&label=Downloads)
+![Release](https://img.shields.io/github/v/release/Mateusz22121/Road-nutrition?style=for-the-badge)
+![Platform](https://img.shields.io/badge/Android-10%2B-green?style=for-the-badge)
+![Offline](https://img.shields.io/badge/Offline-100%25-blue?style=for-the-badge)
+
+Offline-first nutrition companion.
