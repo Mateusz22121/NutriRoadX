@@ -83,6 +83,7 @@ This repository is provided for application distribution only. The APK may not b
 
 Offline-first nutrition companion.
 
+
 <p align="center">
   <img src="assets/banner.png" alt="NutriRoadX Banner" width="100%">
 </p>
