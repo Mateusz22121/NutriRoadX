@@ -61,7 +61,10 @@ This repository contains only the compiled Android application (APK). The source
 
 ## Kontakt
 https://nutriroadx.eu/
+
 support@nutriroadx.eu
+
+https://discord.gg/EZUTmQ8PUR
 
 ## License
 
