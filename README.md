@@ -82,6 +82,7 @@ This repository is provided for application distribution only. The APK may not b
 ![Offline](https://img.shields.io/badge/Offline-100%25-blue?style=for-the-badge)
 
 Offline-first nutrition companion.
+
 <p align="center">
   <img src="assets/banner.png" alt="NutriRoadX Banner" width="100%">
 </p>
