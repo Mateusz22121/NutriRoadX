@@ -59,6 +59,9 @@ Healthy Travel Food is an informational tool intended to support healthier eatin
 
 This repository contains only the compiled Android application (APK). The source code is not included.
 
+## Kontakt
+support@nutriroadx.eu
+
 ## License
 
 Copyright © 2026 Mateusz.
